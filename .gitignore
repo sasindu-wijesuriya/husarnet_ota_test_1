@@ -1,0 +1,6 @@
+.pio
+src/credentials.h
+.vscode/
+firmware.bin
+node_modules/
+.env
